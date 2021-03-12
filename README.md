@@ -1,4 +1,4 @@
-# keras_tensoflow
+# keras_tensorflow
 
 Neste repositório foi desenvolvido um classificador de imagens por meio de deep learning.
 
